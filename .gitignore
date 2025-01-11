@@ -1,0 +1,4 @@
+pdfapp-venv/
+*.pyc
+__pycache__/
+generated_pdf.pdf
